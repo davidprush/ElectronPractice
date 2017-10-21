@@ -6,6 +6,12 @@
   "scripts": {
     "start": "electron ."
   },
+  "repository": "https://github.com/davidprush/ElectronPractice",
+  "keywords": [
+    "Electron",
+    "Practice",
+    "Learn"
+  ],
   "author": "David Rush",
   "license": "MIT",
   "devDependencies": {

@@ -1,7 +1,7 @@
 {
-  "name": "FirstElectron",
+  "name": "QuoteWidget",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A Quote Widget",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -9,7 +9,9 @@
   "author": "David Rush",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^1.7.9",
-    "electron-prebuilt": "^1.4.13"
+    "electron": "^1.7.9"
+  },
+  "dependencies": {
+    "request": "^2.83.0"
   }
 }
