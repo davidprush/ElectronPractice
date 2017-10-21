@@ -1,0 +1,14 @@
+{
+  "name": "FirstElectron",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "David Rush",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.7.9",
+  }
+}
