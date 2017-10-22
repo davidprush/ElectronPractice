@@ -1,0 +1,23 @@
+commit c18bd0f858ffec96e8628cfb419922d923b24cc3
+Author: David Rush <davidprush@gmail.com>
+Date:   Sat Oct 21 19:43:53 2017 -0500
+
+    Updated README.md with something instead of leaving it blank.
+
+commit 257410351c4dc7fe529ad0c2aff1a9e25dbed679
+Author: David Rush <davidprush@gmail.com>
+Date:   Sat Oct 21 19:03:25 2017 -0500
+
+    Updated index.html,styles.css for visual appeal.
+
+commit d822db8fd4696921b8f6c6c4651a085018df2448
+Author: David Rush <davidprush@gmail.com>
+Date:   Sat Oct 21 18:03:13 2017 -0500
+
+    Completed QuoteWidget project and updated some files.
+
+commit 10d50e8b7b0a56c330940fc2b3f5d67f057f084c
+Author: David Rush <davidprush@gmail.com>
+Date:   Sat Oct 21 16:48:35 2017 -0500
+
+    Initial Commit
