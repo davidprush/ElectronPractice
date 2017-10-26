@@ -1,0 +1,20 @@
+{
+  "name": "FirstElectron",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/davidprush/ElectronPractice",
+  "keywords": [
+    "Electron",
+    "Practice",
+    "Learn"
+  ],
+  "author": "David Rush",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.7.9",
+  }
+}

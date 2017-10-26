@@ -1,0 +1,37 @@
+{
+    "name": "WebScraper",
+    "version": "1.0.0",
+    "description": "First attempt at web scraping.",
+    "main": "main.js",
+    "repository": "https://github.com/davidprush/ElectronPractice",
+    "keywords": [
+      "Electron",
+      "Practice",
+      "Learn",
+      "Web Scraping",
+      "Babel",
+      "Nightmare"
+    ],
+    "author": "David Rush",
+    "license": "MIT",
+    "scripts": {
+        "start": "DEBUG=nightmare babel-node ./main.js"
+    },
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-preset-modern-node": "^3.2.0",
+        "babel-preset-stage-0": "^6.24.1"
+    },
+    "Dependencies": {
+        "nightmare": "^2.10.0"
+    },
+    "babel":{
+        "presets":[
+            [
+                "modern-node",
+                { "version": "6.0" }
+            ],
+            "Stage-0"
+        ]
+    }
+}

@@ -1,3 +1,14 @@
+cb0e049 (HEAD -> master) Update git log to log.txt, in the process of learning git and GitHub.
+c18bd0f Updated README.md with something instead of leaving it blank.
+2574103 Updated index.html,styles.css for visual appeal.
+d822db8 Completed QuoteWidget project and updated some files.
+10d50e8 Initial Commit
+commit cb0e049dd061cac091e084a312e13522723bf22a
+Author: David Rush <davidprush@gmail.com>
+Date:   Sat Oct 21 19:58:42 2017 -0500
+
+    Update git log to log.txt, in the process of learning git and GitHub.
+
 commit c18bd0f858ffec96e8628cfb419922d923b24cc3
 Author: David Rush <davidprush@gmail.com>
 Date:   Sat Oct 21 19:43:53 2017 -0500
